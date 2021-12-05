@@ -1,4 +1,4 @@
 # JavaDemo
 There hava some java demo .just my test.
-这是我的一份java课程设计
 是基于java swing 写的IThero
+但是我现在已经很久没用java了
