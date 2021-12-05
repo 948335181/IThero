@@ -1,4 +1,4 @@
 # JavaDemo
-There hava some java demo .just my test.
+There hava some java demo .just my test.\n
 是基于java swing 写的IThero
-但是我已经很久没用java了
+BUT我已经很久没用java了
